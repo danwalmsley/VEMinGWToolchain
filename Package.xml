@@ -5,7 +5,7 @@
   <Description>mingw32 Toolchain based on GCC 4.9.0 and Make for Win32</Description>
   <RepoUri>https://github.com/danwalmsley/VEMingW32Toolchain.git</RepoUri>
   <IncludePaths>
-    <string>0.6.1\lib\gcc\arm-eabi-bt\4.9.0\include</string>
+    <string>lib\gcc\mingw32\4.8.1\include</string>
   </IncludePaths>
-  <WorkingDirectory>0.6.1\bin</WorkingDirectory>
+  <WorkingDirectory>bin</WorkingDirectory>
 </Package>
