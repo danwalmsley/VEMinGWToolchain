@@ -6,7 +6,7 @@
   <RepoUri>https://github.com/danwalmsley/VEMingW32Toolchain.git</RepoUri>
   <IncludePaths>
     <string>lib\gcc\mingw32\4.8.1\include</string>
-    <string>include</string>
-  </IncludePaths>
+  <string>lib\gcc\mingw32\4.8.1\include\c++</string> <string>lib\gcc\mingw32\4.8.1\include\c++\mingw32</string>  <string>include</string>
+   </IncludePaths>
   <WorkingDirectory>bin</WorkingDirectory>
 </Package>
